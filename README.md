@@ -2,6 +2,8 @@
 
 Soy una estudiante apasionada de desarrollo de software con un enfoque especial en front-end. A lo largo de mi formación, obtuve habilidades en diversas tecnologías y lenguajes de programación que me permiten crear interfaces de usuario atractivas y funcionales.
 
+📚 Podés ver mi CV completo aca: https://vchiappo.github.io/VictoriaCv/
+
 
 🛠️ Tecnologías y Herramientas
 
