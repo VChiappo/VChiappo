@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Victoria
 
-Soy una estudiante apasionada de desarrollo de software con un enfoque especial en desarrollo web front-end. A lo largo de mi formación, obtuve habilidades en diversas tecnologías y lenguajes de programación que me permiten crear interfaces de usuario atractivas y funcionales.
+Soy una estudiante apasionada de desarrollo de software con un enfoque especial en front-end. A lo largo de mi formación, obtuve habilidades en diversas tecnologías y lenguajes de programación que me permiten crear interfaces de usuario atractivas y funcionales.
+
 
 🛠️ Tecnologías y Herramientas
 
